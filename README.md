@@ -1,4 +1,4 @@
-<img src = "fotinho.gif" width = "260px" align = "right">
+<img src = "fotinho.gif" width = "280Px" align = "right">
 
 # Bem vindo(a) ao meu GitHub! 🗿💻
 
@@ -21,8 +21,3 @@ Gosto de desenvolver apps, criar sites e fazer coisinhas de marketing [tipo meu 
 
 ---
 
-
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</div>
