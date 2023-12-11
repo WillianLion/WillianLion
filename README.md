@@ -3,7 +3,7 @@
 
 # Bem vindo(a) ao meu GitHub! 🗿💻
 
-Gosto de desenvolver apps, criar sites e fazer coisinhas de marketing [tipo meu site.](http://willianlion.epizy.com/)
+Gosto de desenvolver apps, criar sites e fazer coisinhas de marketing [tipo meu site.](uyla.rf.gd)
 
 - 💚💙 Estudante de Engenharia de Computação na UEMG.
 
